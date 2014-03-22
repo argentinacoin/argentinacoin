@@ -1,5 +1,0 @@
-YOU ARE HERE 
-
-src/net.cpp:
-
- LINE 1000  {"some website name", "somewebsite.org or ip x.x.x.x"},
